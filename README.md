@@ -27,14 +27,9 @@ This Python script creates cards, assigns labels and adds comment from the comma
 
 
 ## Future Development
-I want to expand the Trello CLI tool to work more like 'kubectl' for Kubernetes. I would more features so the tool can provide a full view and control of resources, such as listing and creating boards, viewing, creating or moving lists within boards and viewing or adding details like comments and labels for each list. I believe this will make it more user friendly for managing Trello directly from the command line
+I want to expand the Trello CLI tool to work more like 'kubectl' for Kubernetes.
 
 
-## References
-I have used the following resources to complete this task :-
-- PixieBrix Documentation(https://docs.pixiebrix.com/integrations/trello)
-- Trello REST API Docs(https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)
-- Command Line Blog(https://www.kdnuggets.com/build-a-command-line-app-with-python-in-7-easy-steps)
 
 
 
